@@ -13,7 +13,6 @@ I want to be a Front-end Developer
   We focus on design a lot on this project because the UI was the aggregate of the project.
 We used only 1 main css file to style the login, the game and home page. On the home page, we have section for user can login to the game and a static background. 
 ### Project Outcomes
- 
   For every question answered correctly, the user will be granted one point. which will be stored in score-info.txt 
   The game included the leader board which will shows top 5 users with the highest score
   
@@ -42,7 +41,7 @@ _____________________________________________________________________________
 ## Fifteen Puzzle game 
   The 15 puzzle is a sliding puzzle made out of 15 numbered square pieces in a 4x4 grid, with one empty spot which allows for moving the pieces around. The objective is to solve the puzzle by bringing the pieces with image on them in the correct order. 
 ### Project Development
-	We utilized Imessage to interact and exchange information while the project was being developed. Everyone finished the job on schedule. We are all pleased with how the project turned out.
+We utilized Imessage to interact and exchange information while the project was being developed. Everyone finished the job on schedule. We are all pleased with how the project turned out.
 ### Project Outcomes
 We have successfully developed the game “Fifteen Puzzle,” which meets all the requirements. For the game, users can choose any image available in the selections. Then, the user will have the ability to shuffle and start playing the game. After finishing the game, the notification will show the message along with the time and the count.
 
